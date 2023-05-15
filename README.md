@@ -1,6 +1,6 @@
 ### chatbot-suuport :speech_balloon:
 
-#### :point_right:  simple chatbot using NLP techniques, pytorch for modeling, and flask for locally deployment
+#### :point_right:  simple chatbot using NLP techniques, pytorch for modeling, and flask for local deployment
 
 look at my webpage here :point_down:
 
